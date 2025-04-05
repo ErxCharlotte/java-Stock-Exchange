@@ -1,0 +1,6 @@
+ADD trader1 100.00
+ADD trader2 100.00
+IMPORT trader1 ABC 100
+BUY trader2 ABC 200 20
+SELL trader1 ABC 100 10
+EXIT

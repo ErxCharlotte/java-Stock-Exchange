@@ -1,0 +1,7 @@
+ADD trader1 100.55
+ADD trader2 20.00
+ADD trader3 200.00
+ADD trader4 300.00
+BALANCE trader1
+BALANCE trade100
+EXIT

@@ -1,0 +1,13 @@
+ADD trader1 100.00
+ADD trader2 100.00
+IMPORT trader2 ABC 100
+BUY trader1 ABC 6 3
+BUY trader1 ABC 9 2
+SELL trader2 ABC 15 1
+BALANCE trader1
+BALANCE trader2
+INVENTORY trader1
+INVENTORY trader2
+AMOUNT trader1 ABC
+AMOUNT trader2 ABC
+EXIT

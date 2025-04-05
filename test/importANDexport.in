@@ -1,0 +1,12 @@
+ADD trader1 100.00
+ADD trader2 100.00
+IMPORT trader3 ABC 100
+IMPORT trader1 ABC -1
+import trader1 ABC 100
+EXPORT trader3 ABC 100
+EXPORT trader1 ABC -1
+EXPORT trader1 LOL 100
+EXPORT trader1 ABC 200
+EXPORT trader1 ABC 50
+EXPORT trader1 ABC 50
+EXIT

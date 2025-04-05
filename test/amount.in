@@ -1,0 +1,11 @@
+ADD trader1 100.55
+ADD trader2 20.00
+IMPORT trader1 ABC 100
+IMPORT trader1 CDE 1000
+EXPORT trader1 CDE 1000
+Amount trader1 CDE
+AMOUNT trader1 ABC
+AMOUNT trader1 LOL
+AMOUNT trader2 ABC
+AMOUNT trader3 ABC
+EXIT

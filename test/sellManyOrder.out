@@ -1,0 +1,45 @@
+$ Success.
+$ Success.
+$ Success.
+$ Success.
+$ Success.
+$ Trader now has 100.00 units of ABC.
+$ Trader now has 100.00 units of ABC.
+$ Trader now has 100.00 units of ABC.
+$ Trader now has 100.00 units of ABC.
+$ No trades could be made, order added to sell book.
+$ 90.00
+$ No trades could be made, order added to sell book.
+$ 80.00
+$ No trades could be made, order added to sell book.
+$ No trades could be made, order added to sell book.
+$ No trades could be made, order added to sell book.
+$ No trades could be made, order added to sell book.
+$ No trades could be made, order added to sell book.
+$ 80.00
+$ Product bought in part, trades as follows:
+trader4->trader5: 10.00xABC for $10.00.
+trader3->trader5: 10.00xABC for $10.00.
+trader1->trader5: 10.00xABC for $50.00.
+trader2->trader5: 10.00xABC for $100.00.
+trader3->trader5: 10.00xABC for $200.00.
+$ 80.00
+$ trader4->trader5: 10.00xABC for $10.00.
+trader3->trader5: 10.00xABC for $10.00.
+trader1->trader5: 10.00xABC for $50.00.
+trader2->trader5: 10.00xABC for $100.00.
+trader3->trader5: 10.00xABC for $200.00.
+$ 80.00
+$ 80.00
+$ 80.00
+$ 90.00
+$ 50.00
+$ $600.00
+$ $1100.00
+$ $2200.00
+$ $200.00
+$ $-3600.00
+$ 0007: BUY 50.00xABC @ $300.00
+$ 0001: SELL 10.00xABC @ $500.00
+0006: SELL 10.00xABC @ $400.00
+$ Have a nice day.

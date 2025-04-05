@@ -1,0 +1,15 @@
+$ Success.
+$ Success.
+$ Trader now has 100.00 units of ABC.
+$ Trader now has 500.00 units of CDE.
+$ No trades could be made, order added to sell book.
+$ CDE
+$ No such order in sell book.
+$ Order successfully cancelled.
+$ ABC
+CDE
+$ No trades could be made, order added to buy book.
+$ No such order in buy book.
+$ Order successfully cancelled.
+$ The buy book is empty.
+$ Have a nice day.

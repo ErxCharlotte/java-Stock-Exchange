@@ -1,0 +1,16 @@
+ADD trader1 100.00
+ADD trader2 100.00
+ADD trader3 100.00
+ADD trader4 100.00
+ADD trader5 100.00
+IMPORT trader1 ABC 100
+IMPORT trader2 ABC 100
+IMPORT trader3 ABC 100
+IMPORT trader4 CDE 100
+SELL trader1 ABC 50 100
+SELL trader2 ABC 50 50
+SELL trader3 ABC 100 5
+BUY trader1 ABC 300 1
+BUY trader1 ABC 300 1000
+TRADES
+EXIT

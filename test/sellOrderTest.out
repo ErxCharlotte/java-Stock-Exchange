@@ -1,0 +1,7 @@
+$ Success.
+$ Success.
+$ Trader now has 100.00 units of ABC.
+$ No trades could be made, order added to buy book.
+$ Product sold in entirety, trades as follows:
+trader1->trader2: 100.00xABC for $20.00.
+$ Have a nice day.

@@ -1,0 +1,28 @@
+ADD trader1 100.00
+ADD trader2 100.00
+ADD trader3 100.00
+ADD trader4 100.00
+ADD trader5 100.00
+IMPORT trader1 ABC 100
+BUY trader2 ABC 10 7.50
+BUY trader3 ABC 5 10.00
+BUY trader4 ABC 15 5 
+BUY trader5 ABC 20 7.50 
+BOOK BUY
+SELL trader1 ABC 100 6.50
+BOOK BUY
+BOOK SELL
+TRADES
+AMOUNT trader1 ABC
+AMOUNT trader2 ABC
+AMOUNT trader3 ABC
+AMOUNT trader4 ABC
+AMOUNT trader5 ABC
+BALANCE trader1
+BALANCE trader2
+BALANCE trader3
+BALANCE trader4
+BALANCE trader5
+EXIT
+
+

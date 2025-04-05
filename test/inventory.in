@@ -1,0 +1,8 @@
+ADD trader1 100.55
+ADD trader2 20.00
+IMPORT trader1 ABC 100
+IMPORT trader1 CDE 1000
+INVENTORY trader1
+INVENTORY trader3
+INVENTORY trader2
+EXIT

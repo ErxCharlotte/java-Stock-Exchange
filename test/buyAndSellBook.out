@@ -1,0 +1,26 @@
+$ The sell book is empty.
+$ The buy book is empty.
+$ Success.
+$ Success.
+$ Success.
+$ Trader now has 100.00 units of ABC.
+$ Trader now has 1000.00 units of CDE.
+$ No trades could be made, order added to sell book.
+$ No trades could be made, order added to buy book.
+$ 0000: SELL 100.00xABC @ $5.00
+$ 0001: BUY 100.00xCDE @ $10.00
+$ Product bought in entirety, trades as follows:
+trader1->trader2: 10.00xABC for $5.00.
+$ 0001: BUY 100.00xCDE @ $10.00
+$ Product sold in part, trades as follows:
+trader1->trader2: 100.00xCDE for $10.00.
+$ 0000: SELL 90.00xABC @ $5.00
+0003: SELL 400.00xCDE @ $5.00
+$ The buy book is empty.
+$ 0003: SELL 400.00xCDE @ $5.00
+$ Product bought in entirety, trades as follows:
+trader1->trader2: 400.00xCDE for $5.00.
+$ The buy book is empty.
+$ 0000: SELL 90.00xABC @ $5.00
+$ Order is not present in either order book.
+$ Have a nice day.

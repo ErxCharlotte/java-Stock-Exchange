@@ -1,0 +1,44 @@
+$ No trades have been completed.
+$ Success.
+$ Success.
+$ Trader now has 100.00 units of ABC.
+$ Trader now has 1000.00 units of CDE.
+$ Order could not be placed onto the market.
+$ No such trader in the market.
+$ Order could not be placed onto the market.
+$ Order could not be placed onto the market.
+$ No trades could be made, order added to sell book.
+$ CDE
+$ Order could not be placed onto the market.
+$ No such trader in the market.
+$ No trades could be made, order added to buy book.
+$ Product bought in entirety, trades as follows:
+trader1->trader2: 10.00xABC for $5.00.
+$ trader1->trader2: 10.00xABC for $5.00.
+$ CDE
+$ ABC
+$ $150.00
+$ $-30.00
+$ Product sold in part, trades as follows:
+trader1->trader2: 100.00xCDE for $10.00.
+$ trader1->trader2: 10.00xABC for $5.00.
+trader1->trader2: 100.00xCDE for $10.00.
+$ CDE
+$ ABC
+CDE
+$ $1150.00
+$ $-1030.00
+$ 500.00
+$ Product bought in entirety, trades as follows:
+trader1->trader2: 400.00xCDE for $5.00.
+$ trader1->trader2: 10.00xABC for $5.00.
+trader1->trader2: 100.00xCDE for $10.00.
+trader1->trader2: 400.00xCDE for $5.00.
+$ No trades could be made, order added to buy book.
+$ Product sold in entirety, trades as follows:
+trader1->trader2: 100.00xCDE for $10.00.
+$ trader1->trader2: 10.00xABC for $5.00.
+trader1->trader2: 100.00xCDE for $10.00.
+trader1->trader2: 400.00xCDE for $5.00.
+trader1->trader2: 100.00xCDE for $10.00.
+$ Have a nice day.

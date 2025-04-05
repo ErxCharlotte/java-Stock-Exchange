@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"gradescope","l":"Exchange"},{"p":"gradescope","l":"Market"},{"p":"gradescope","l":"Order"},{"p":"gradescope","l":"Trade"},{"p":"gradescope","l":"Trader"}]

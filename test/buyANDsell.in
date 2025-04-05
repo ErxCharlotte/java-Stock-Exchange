@@ -1,0 +1,30 @@
+ADD trader1 100.00
+ADD trader2 20.00
+IMPORT trader1 ABC 100
+IMPORT trader1 CDE 1000
+SELL trader1 ABC 10 -10
+SELL trader1 ABC -1 100
+SELL trader3 ABC 100 100
+SELL trader1 LPL 100 100
+SELL trader1 ABC 10000 100
+SELL trader1 ABC 100 5
+INVENTORY trader1
+BUY trader2 LPL 1 -10
+BUY trader2 LPL -100 30
+BUY trader3 ABC 100 10
+BUY trader2 CDE 100 10
+BUY trader2 ABC 10 15
+INVENTORY trader1
+INVENTORY trader2
+BALANCE trader1
+BALANCE trader2
+SELL trader1 CDE 500 5
+INVENTORY trader1
+INVENTORY trader2
+BALANCE trader1
+BALANCE trader2
+AMOUNT trader1 CDE
+BUY trader2 CDE 400 5
+BUY trader2 CDE 100 10
+SELL trader1 CDE 100 5
+EXIT

@@ -1,0 +1,15 @@
+$ Success.
+$ Success.
+$ Trader now has 100.00 units of ABC.
+$ No trades could be made, order added to buy book.
+$ No trades could be made, order added to buy book.
+$ Product sold in entirety, trades as follows:
+trader2->trader1: 6.00xABC for $3.00.
+trader2->trader1: 9.00xABC for $2.00.
+$ $64.00
+$ $136.00
+$ ABC
+$ ABC
+$ 15.00
+$ 85.00
+$ Have a nice day.

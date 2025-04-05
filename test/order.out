@@ -1,0 +1,24 @@
+$ Success.
+$ Success.
+$ No orders in either book in the market.
+$ Trader now has 100.00 units of ABC.
+$ Trader now has 500.00 units of CDE.
+$ No trades could be made, order added to sell book.
+$ Order is not present in either order book.
+$ 0000: SELL 100.00xABC @ $5.00
+$ No trades could be made, order added to buy book.
+$ No trades could be made, order added to buy book.
+$ No trades could be made, order added to buy book.
+$ No trades could be made, order added to buy book.
+$ No trades could be made, order added to buy book.
+$ No trades could be made, order added to buy book.
+$ No trades could be made, order added to buy book.
+$ No trades could be made, order added to buy book.
+$ No trades could be made, order added to buy book.
+$ No trades could be made, order added to buy book.
+$ No trades could be made, order added to buy book.
+$ 0005: BUY 100.00xLOL @ $5.00
+$ 000A: BUY 100.00xLOL @ $10.00
+$ No trades could be made, order added to sell book.
+$ 000C: SELL 100.00xCDE @ $12.00
+$ Have a nice day.
